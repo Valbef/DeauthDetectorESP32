@@ -1,0 +1,5 @@
+{
+    "threshold": 20,
+    "window_seconds": 5,
+    "log_file": "detections.csv"
+}
